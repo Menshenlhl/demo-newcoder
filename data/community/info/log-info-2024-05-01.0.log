@@ -1,0 +1,42 @@
+2024-05-01 19:27:56,350 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 1.8.0_341 on MateBookD15 with PID 12544 (started by MLMHYL.D in D:\program\javacode\community)
+2024-05-01 19:27:56,353 INFO [main] c.n.c.MailTests [SpringApplication.java:645] No active profile set, falling back to 1 default profile: "default"
+2024-05-01 19:27:58,127 INFO [main] o.s.b.a.l.ConditionEvaluationReportLoggingListener [ConditionEvaluationReportLoggingListener.java:136] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-05-01 19:31:11,272 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 1.8.0_341 on MateBookD15 with PID 2876 (started by MLMHYL.D in D:\program\javacode\community)
+2024-05-01 19:31:11,276 INFO [main] c.n.c.MailTests [SpringApplication.java:645] No active profile set, falling back to 1 default profile: "default"
+2024-05-01 19:31:12,813 INFO [main] o.s.b.a.l.ConditionEvaluationReportLoggingListener [ConditionEvaluationReportLoggingListener.java:136] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-05-01 19:32:23,236 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 1.8.0_341 on MateBookD15 with PID 10624 (started by MLMHYL.D in D:\program\javacode\community)
+2024-05-01 19:32:23,238 INFO [main] c.n.c.MailTests [SpringApplication.java:645] No active profile set, falling back to 1 default profile: "default"
+2024-05-01 19:32:25,532 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:53] Adding welcome page: class path resource [static/index.html]
+2024-05-01 19:32:25,961 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:61] Started MailTests in 3.273 seconds (JVM running for 4.32)
+2024-05-01 19:34:45,896 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 1.8.0_341 on MateBookD15 with PID 19304 (started by MLMHYL.D in D:\program\javacode\community)
+2024-05-01 19:34:45,898 INFO [main] c.n.c.MailTests [SpringApplication.java:645] No active profile set, falling back to 1 default profile: "default"
+2024-05-01 19:34:48,156 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:53] Adding welcome page: class path resource [static/index.html]
+2024-05-01 19:34:48,641 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:61] Started MailTests in 3.323 seconds (JVM running for 4.452)
+2024-05-01 19:56:49,587 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 1.8.0_341 on MateBookD15 with PID 14932 (started by MLMHYL.D in D:\program\javacode\community)
+2024-05-01 19:56:49,590 INFO [main] c.n.c.MailTests [SpringApplication.java:645] No active profile set, falling back to 1 default profile: "default"
+2024-05-01 19:56:51,926 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:53] Adding welcome page: class path resource [static/index.html]
+2024-05-01 19:56:52,322 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:61] Started MailTests in 3.353 seconds (JVM running for 4.56)
+2024-05-01 19:57:58,475 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 1.8.0_341 on MateBookD15 with PID 18968 (started by MLMHYL.D in D:\program\javacode\community)
+2024-05-01 19:57:58,480 INFO [main] c.n.c.MailTests [SpringApplication.java:645] No active profile set, falling back to 1 default profile: "default"
+2024-05-01 19:58:00,698 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:53] Adding welcome page: class path resource [static/index.html]
+2024-05-01 19:58:01,113 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:61] Started MailTests in 3.223 seconds (JVM running for 4.499)
+2024-05-01 20:02:25,727 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 1.8.0_341 on MateBookD15 with PID 10392 (started by MLMHYL.D in D:\program\javacode\community)
+2024-05-01 20:02:25,729 INFO [main] c.n.c.MailTests [SpringApplication.java:645] No active profile set, falling back to 1 default profile: "default"
+2024-05-01 20:02:27,796 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:53] Adding welcome page: class path resource [static/index.html]
+2024-05-01 20:02:28,205 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:61] Started MailTests in 3.007 seconds (JVM running for 4.183)
+2024-05-01 20:11:27,599 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 1.8.0_341 on MateBookD15 with PID 11680 (started by MLMHYL.D in D:\program\javacode\community)
+2024-05-01 20:11:27,601 INFO [main] c.n.c.MailTests [SpringApplication.java:645] No active profile set, falling back to 1 default profile: "default"
+2024-05-01 20:11:29,708 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:53] Adding welcome page: class path resource [static/index.html]
+2024-05-01 20:11:30,107 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:61] Started MailTests in 3.068 seconds (JVM running for 4.051)
+2024-05-01 21:44:44,249 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 1.8.0_341 on MateBookD15 with PID 13164 (started by MLMHYL.D in D:\program\javacode\community)
+2024-05-01 21:44:44,252 INFO [main] c.n.c.MailTests [SpringApplication.java:645] No active profile set, falling back to 1 default profile: "default"
+2024-05-01 21:44:46,421 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:53] Adding welcome page: class path resource [static/index.html]
+2024-05-01 21:44:46,878 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:61] Started MailTests in 3.22 seconds (JVM running for 4.239)
+2024-05-01 21:46:21,841 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 1.8.0_341 on MateBookD15 with PID 4540 (started by MLMHYL.D in D:\program\javacode\community)
+2024-05-01 21:46:21,843 INFO [main] c.n.c.MailTests [SpringApplication.java:645] No active profile set, falling back to 1 default profile: "default"
+2024-05-01 21:46:24,003 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:53] Adding welcome page: class path resource [static/index.html]
+2024-05-01 21:46:24,406 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:61] Started MailTests in 3.137 seconds (JVM running for 4.142)
